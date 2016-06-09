@@ -2,12 +2,18 @@
  * Simple NASA Rss Reader
  */
  
+/**
+ * Necessary libraries
+ */ 
 var DOMParser = require('xmldom').DOMParser;
 var REQUEST_URL = "http://www.nasa.gov/rss/dyn/breaking_news.rss";
 var Dimensions = require('Dimensions');
 var windowSize = Dimensions.get('window');
 var Button = require('react-native-button');
 
+/**
+ * Necessary imports
+ */
 import React, {
   Component,
 } from 'react';
@@ -28,8 +34,9 @@ import {
 } from 'react-native';
 
 
-
+//status bar set color 
 StatusBar.setBackgroundColor('#9598A6', true);
+
 class helloReact extends Component {
   constructor(props) {
     super(props);
@@ -52,7 +59,10 @@ class helloReact extends Component {
         return true;
       });
   }
-
+  
+/**
+ * Extracts data from the XML response
+ */
   extractData (text) {
     var doc = new DOMParser().parseFromString(text, 'text/xml');
     var items_array = [];
@@ -70,7 +80,11 @@ class helloReact extends Component {
 	
     return items_array;
   }
-
+  
+  
+/**
+ * Datasource populate
+ */
   fetchData() {
     fetch(REQUEST_URL)
       .then((response) => response.text())
@@ -91,7 +105,10 @@ class helloReact extends Component {
       />
     );
   }
-
+  
+/**
+ * Router
+ */
   RouteMapper(route, navigator) {
     if(route.name == 'list') {
       return (
@@ -137,7 +154,10 @@ class helloReact extends Component {
       url={this.state.url}/>
     );
   }
-
+  
+/**
+ * Navigates to external url
+ */
   goToUrl(feed_data) {
     this.setState({url: feed_data.link});
     this.refs.navigator.push({
@@ -151,7 +171,10 @@ class helloReact extends Component {
       feed_data: selected_feed
     })
   }
-
+  
+/**
+ * List item render
+ */
   renderFeed(feed) {
     return (
       <TouchableHighlight onPress={() => this._pressRow(feed)}>
@@ -168,6 +191,9 @@ class helloReact extends Component {
   }
 }
 
+/**
+ * Styles declaration
+ */
 var styles = StyleSheet.create({
   container: {
     padding: 5,
