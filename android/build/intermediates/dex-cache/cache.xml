@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/classes-4b6633bb56ca18861833b853a5c2acbc9c59f5bb.jar" />
+    </item>
+    <item
+        jar="/home/akis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-ba58199d05d160bc6be9884b79e1ff927062cd81.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.26.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b48c2ceb4b4563dfe99b5ac7638b15d4052e45fb">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-93df5dd11bcdf75bc0d61e741952b18d8a340522.jar" />
+    </item>
+    <item
+        jar="/home/akis/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-558fc25c8989807e30bbb533fb9071ea429cdf41.jar" />
+    </item>
+    <item
+        jar="/home/akis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-88757d8b565cef6a9a9012bf988b08837a77010c.jar" />
+    </item>
+    <item
+        jar="/home/akis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-98ee6aebf40d4d64e135a5789fa48c3608909cf4.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/classes-fe62a0141255c51de1760ead67fb6e4903690483.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-92a3bb374a6d5a30f49b30d6b91fb9e0cbbb71ca.jar" />
+    </item>
+    <item
+        jar="/home/akis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-f314ecd60b3e6ad3d8277fe3d2b455a3fddb62c1.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/classes-1173da5d774537cf6a7e955277afd13140504666.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/classes-2ceb7daaf6c3277f0addd4031f68fffd6055fcec.jar" />
+    </item>
+    <item
+        jar="/home/akis/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-aaa6643b2aa82c1830d8647b69d66af8d9ccd7b7.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/classes-6e9edf66d06694a7a2b50b63bc586697a7336e13.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/classes-63afae31dfcee2e023fb3489c96448193cdb8827.jar" />
+    </item>
+    <item
+        jar="/home/akis/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-45baf06e9ca8483ef209b6a391dc72c720ceaaa5.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/classes-e544dfdc6d28945bd9db92278ab4078a5df15958.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.26.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a5b02b22cd03cf38474f894690ca5d5396b698f">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/classes-1cbc5b2bcbfc318d9a1845d6ebf7c496e93aa2ee.jar" />
+    </item>
+    <item
+        jar="/home/akis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-c70dfd4ec7493564d320f9ee119e4508508a682e.jar" />
+    </item>
+    <item
+        jar="/home/akis/helloReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/home/akis/helloReact/android/app/build/intermediates/pre-dexed/debug/classes-da677431766e7d8fe4f33d1fd45ce4ceac6e17d6.jar" />
+    </item>
+
+</items>
