@@ -1,17 +1,14 @@
 # React-Native-Nasa-RSS-Feed
 
+A simple RSS reader made with React Native.
+This is a test project just to play around with React Native
+
+![Screen1](http://i.imgur.com/1TcNz5J.jpg)
+![Screen2](http://i.imgur.com/n9tX5UM.jpg)
+
 RSS Feed from https://www.nasa.gov/content/nasa-rss-feeds/
 
-React Native Example of a RSS Feed
-
-Project inculdes:
-Page Navigation, 
-Tap Event, 
-ListView, 
-Navigate to External Url, 
-GET XML response
 
 TO DO:
 Fix Comments
 Add IOS support
-Code Refactor
